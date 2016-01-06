@@ -1,6 +1,10 @@
-.DS_STORE
-.idea/
-.gradle/
-build/
-target/
+*.idea
+*.idea/**
 *.iml
+*.ipr
+target
+*.project
+*.classpath
+*.iws
+*.settings/**
+*.log
